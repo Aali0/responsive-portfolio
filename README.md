@@ -1,10 +1,35 @@
-# responsive-portfolio
+# Title: Responsive Portfolio
 
-A basic portfolio that showcases some of my recent projects.
+## Table of Contents:
+* [Description: ](#description)
+* [Installation:](#installation)
+* [Usage: ](#usage)
+* [Contribution: ](#contribution)
+* [Test: ](#test)
+* [License: ](#license)
+* [GitHub: ](#github)
+* [Email: ](#email)
 
+## Description
+A basic portfolio built with HTML/CSS.
 
-The portfolio contains:
-						*Info About Me
-						*Contact Information
-						*Projects
+## Installation
+-
 
+## Usage
+https://aali0.github.io/responsive-portfolio/
+
+## Contribution
+Ahmed Ali
+
+## Test
+-
+
+## License
+N/A
+
+## GitHub
+https://github.com/Aali0
+
+## Email
+-
